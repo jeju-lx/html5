@@ -4,7 +4,7 @@ function App() {
 const a1 = <iframe width="560" height="315" src="https://www.youtube.com/embed/BsDXt49euc0?si=ATEaDUuANkioTsJ7&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 const a2 = <iframe width="560" height="315" src="https://www.youtube.com/embed/fhs55HEl-Gc?si=81rITJJQ8ZSnssoS&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-  return ( <div>
+  return ( <div className="center_div">
     <center><h1>MY favourite</h1></center>
     
 <br />
