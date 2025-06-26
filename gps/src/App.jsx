@@ -22,9 +22,9 @@ function App()
 
   return (
     <div>
-      <h1>위도 = {lat} <br />
-      경도 = {lon} <br />
-      정확도 = {accuracy}</h1>
+      <h1>위도 = {lat}</h1><br />
+      <h1>경도 = {lon}</h1><br />
+      <h1>정확도 = {accuracy}</h1>
     </div>
   );
 }
