@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 
 function App()
@@ -22,9 +21,9 @@ function App()
 
   return (
     <div>
-      <h1>위도 = {lat}</h1>
-      <h1>경도 = {lon}</h1>
-      <h1>정확도 = {accuracy}</h1>
+      <h1>위도 = {lat0}</h1>
+      <h1>경도 = {lon0}</h1>
+      <h1>정확도 = {accuracy0}</h1>
       
     </div>
   );
