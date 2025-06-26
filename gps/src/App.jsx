@@ -18,12 +18,12 @@ function App()
       }
        );
 
-  
+ 
 
   return (
     <div>
-      <h1>위도 = {lat}</h1><br />
-      <h1>경도 = {lon}</h1><br />
+      <h1>위도 = {lat}</h1>
+      <h1>경도 = {lon}</h1>
       <h1>정확도 = {accuracy}</h1>
     </div>
   );
